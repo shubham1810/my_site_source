@@ -1,6 +1,6 @@
 # Site settings
 title:       Shubham Dokania
-email:       skd.1810@gmail.com
+email:       shubham@codingblocks.com
 author:      Shubham Dokania
 description: "Personal website and blog"
 baseurl:     ""
@@ -16,7 +16,7 @@ animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    true
-ajaxify_contact_form: false
+ajaxify_contact_form: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
