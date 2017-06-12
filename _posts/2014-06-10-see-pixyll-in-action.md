@@ -6,6 +6,8 @@ summary:    See what the different elements looks like. Your markdown has never 
 categories: jekyll pixyll
 ---
 
+This template is kept for reference while writing new posts.
+
 There is a significant amount of subtle, yet precisely calibrated, styling to ensure
 that your content is emphasized while still looking aesthetically pleasing.
 
